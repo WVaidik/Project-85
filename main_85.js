@@ -1,5 +1,5 @@
 menu_list_array = [ "Veg Margherita Pizza",                  
- "Chicken Dominater", "Chicken Pepperoni", "Double Cheese Margherita",]; //Add more Pizza item names
+ "Chicken Dominater", "Chicken Pepperoni", "Double Cheese Margherita"]; //Add more Pizza item names
 
 function getmenu()
 {
